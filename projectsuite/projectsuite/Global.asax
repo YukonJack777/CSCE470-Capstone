@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="projectsuite.Global_asax" Language="C#" %>
