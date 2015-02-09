@@ -1,6 +1,11 @@
 <%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/Main.master" CodeBehind="Login.aspx.cs" Inherits="projectsuite.Login" %>
 
-<asp:Content ID="MainContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="MainContent" ContentPlaceHolderID="MainContent" runat="server" >
+    <style>
+        .contentPane {
+            padding-left: 100px;
+        }
+    </style>
     <div class="accountHeader">
     <h2>
         Log In</h2>

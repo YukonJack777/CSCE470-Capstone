@@ -2,7 +2,7 @@
 
 <%-- DXCOMMENT: Page Light.master is a master page for Account pages --%>
 <asp:Content ID="Content1" ContentPlaceHolderID="Content" runat="server">
-<div class="content">
-<asp:ContentPlaceHolder ID="MainContent" runat="server" />
+<div class="content" style="padding-left:100px">
+<asp:ContentPlaceHolder ID="MainContent" runat="server"  />
 </div>
 </asp:Content>
