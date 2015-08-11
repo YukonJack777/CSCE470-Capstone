@@ -1,0 +1,426 @@
+﻿
+/*#region SOA Header Settings */
+
+nav#soa-nav button {
+    color: #00006F;
+}
+
+nav#soa-nav .navbar-toggle,
+nav#soa-nav .navbar-toggle:focus,
+.search-box-toggle,
+.search-box-toggle:focus {
+    border-radius: 0;
+    border: .1em #f7ae12;
+    margin: 0;
+    padding: 2px 8px;
+    background: rgba(0,0,0,0);
+    float: right;
+    font-size: 1em;
+}
+
+.soa-collapsed-nav-btn {
+    margin-top: 4px !important;
+    margin-right: 5px !important;
+    border-radius: 4px  !important;
+    height: 30px;
+}
+.icon-bar.navbar-icon-bar {
+    background-color: #00006F !important;
+}
+
+.search-box-toggle span {
+    font-weight: bold;
+}
+
+nav#soa-nav .navbar-toggle:hover,
+nav#soa-nav .navbar-toggle:active,
+.search-box-toggle:hover,
+.search-box-toggle:active {
+    background-color: #f7ae12;
+}
+
+/*Sets yellow gradient*/
+nav#soa-nav {
+    /*max-width: 960px;*/
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+    /*background: #f9c033 url('Images/gold_bar.gif') repeat-x;*/
+    /* For WebKit (Safari, Google Chrome etc) */
+    background: -webkit-gradient(linear, left top, left bottom, from(#fef792), to(#f7ae12));
+    /* For Mozilla/Gecko (Firefox etc) */
+    background: -moz-linear-gradient(top, #fef792, #f7ae12);
+    /* For Internet Explorer 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#fef792, endColorstr=#f7ae12);
+    /* For Internet Explorer 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#fef792, endColorstr=#f7ae12)";
+    background-image: linear-gradient(to bottom,#fef792, #f7ae12);
+    border-radius: 0;
+    border-top-right-radius: .7em;
+    border-top-left-radius: .7em;
+    border: 0;
+    border-bottom: .2em solid #eddf4e;
+    /*outline: .2em solid #c17b00;*/
+    position: relative;
+    /*overflow: hidden;*/
+    margin: auto;
+    min-height: 27px;
+}
+/*This makes the rounded corners work in IE 9 - using a gradient as the background of the nav-bar makes the border radius not really work.*/
+#HeaderRoundedCornersMask {
+    border-top-right-radius: .7em;
+    border-top-left-radius: .7em;
+    /*overflow: hidden;*/
+    /*max-width: 960px;*/
+    margin: auto;
+    min-height: 27px;
+}
+
+    #HeaderRoundedCornersMask:after {
+        content: '';
+        clear: both;
+        display: block;
+    }
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: 0;
+    padding-right: 0;
+}
+
+nav#soa-nav .navbar-nav {
+    float: right;
+}
+
+nav#soa-nav a {
+    padding: 0;
+}
+
+nav#soa-nav .AKImage { /*This positions the button image over the text*/
+    border-top-left-radius: .7em;
+    display: block;
+    width: 170px;
+    height: 27px;
+    background: url('Images/topbarSOA2.png') no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 0;
+}
+
+/*This is the "container" for the list of links on the top bar*/
+nav#soa-nav ul {
+    padding: 4px 0 0;
+    margin: 0;
+    float: right;
+}
+/*This is the styling for each list item in the top bar list of links*/
+nav#soa-nav ul li {
+    float: left;
+    display: inline;
+    list-style: none;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    padding: 0 14px;
+}
+/*Style for the actual links in the top bar*/
+nav#soa-nav ul li a,
+#manageUser {
+    padding: 0;
+    text-decoration: none;
+    color: #00006F;
+    font-weight: bold;
+}
+/*Style for the hover / focus state of the list of links in the top bar*/
+nav#soa-nav ul li a:hover {
+    text-decoration: underline;
+}
+nav#soa-nav ul li a,
+nav#soa-nav ul li a:hover,
+nav#soa-nav ul li a:focus {
+    background-color: transparent;
+}
+nav#soa-nav .navbar-nav > li > form {
+    line-height: 20px;
+}
+#manageUser {
+    line-height: 20px;
+    padding-left: .5em;
+}
+#soa-navbar-collapse.navbar-collapse.collapsing ul,
+#soa-navbar-collapse.navbar-collapse.in ul {
+    float: none;
+    text-align: left;
+}
+#soa-navbar-collapse.navbar-collapse.collapsing ul.nav.navbar-nav li,
+#soa-navbar-collapse.navbar-collapse.in ul.nav.navbar-nav li {
+    width: 100%;
+    display: block;
+    border: 0;
+    border-top: 1px solid orange;
+    padding: 0;
+}
+
+#soa-navbar-collapse.navbar-collapse.collapsing ul.nav.navbar-nav li:first-of-type,
+#soa-navbar-collapse.navbar-collapse.in ul.nav.navbar-nav li:first-of-type {
+    border: 0;
+}
+/*This keeps the top menu items from overlapping the State Of Alaska logo*/
+@media screen and (max-width: 854px) and (min-width:768px) {
+    nav#soa-nav ul li {
+        padding: 0 4px;
+    }
+
+    nav#soa-nav.navbar.navbar-default div.container-fluid {
+        padding-right: 5px;
+    }    
+}
+
+@media screen and (min-width:855px) {
+    #soa-navbar-collapse ul li#ShowSearchBoxLi {
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) {
+    #ShowSearchBoxBtn {
+        display: none;
+    }
+}
+
+@media reader {
+}
+
+@media screen and (max-width:767px) {
+    #soa-navbar-collapse ul li#ShowSearchBoxLi {
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:915px) {
+    nav#soa-nav ul li {
+        padding: 0 2px;
+        border-left: 2px solid orange;
+    }
+
+    #ShowSearchBoxLiBtn {
+        border-left: 2px solid orange;
+    }
+
+    nav#soa-nav ul li:last-child, nav#soa-nav ul li:first-child {
+        border-left: 0;
+    }
+
+    nav#soa-nav.navbar.navbar-default div.container-fluid {
+        padding-right: 2px;
+    }
+}
+/*#endregion SOA Header Settings */
+
+
+/*#region Department Header Settings */
+/*#region*/
+.header {
+    width: 100%;
+    max-width: 960px;
+    min-height: 105px;
+    display: block;
+    margin: auto;
+    /*background: url('Images/headerBG.gif') repeat-x #112039;*/ /*This will need to be changed depending on the background color or style you choose to use*/
+    position: relative;
+}
+
+#headerInsideDiv {
+    width: 100%;
+    max-width: 960px;
+    min-height: 105px;
+    padding: 1em;
+    /*background: url('Images/headerBG.gif') repeat-x #112039;*/ /*This will need to be changed depending on the background color or style you choose to use*/
+    background: -webkit-linear-gradient(#0a306a, #061d41) no-repeat, #061d41; /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#0a306a, #061d41) no-repeat, #061d41; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#0a306a, #061d41) no-repeat, #061d41; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#0a306a, #061d41) no-repeat, #061d41; /* Standard syntax */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#0a306a, endColorstr=#061d41); /* For Internet Explorer 5.5 - 7 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#0a306a, endColorstr=#061d41)"; /* For Internet Explorer 8 */
+    float: left;
+}
+
+/*#state_footer:after {
+        content: '';
+        clear: both;
+        display: block;
+    }*/
+#AgencyLogo a#title {
+    padding: 0;
+}
+
+    #AgencyLogo a#title img {
+        width: 100%;
+        max-width: 404px;
+    }
+/*#endregion*/
+
+/*#region Search Box*/
+#search {
+    padding: 15px 15px 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    position: relative; /*Need this to get the absolute positioning to work within this div box*/
+    max-width: 350px;
+    float: right;
+}
+
+    #search .input-group-addon {
+        background-color: #FFF;
+        border-color: #ccc;
+        color: #ccc;
+        border-right: 0;
+        padding: 5px 10px;
+    }
+
+    #search #searchBoxGrp {
+        max-width: 250px;
+        float: left;
+    }
+
+    #search #searchBox {
+        background-color: #FFF;
+        border-left: 0;
+        box-shadow: none;
+        min-width: 200px;
+        max-width: initial;
+    }
+
+    #search .form-control:focus,
+    #search .form-controlinput:hover,
+    #search .form-controlinput:active {
+        border-color: #ccc;
+        border-left: 0;
+    }
+
+#searchButton1,
+#searchButton2 {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+    color: #FFF;
+    line-height: 18px;
+    background: url("Images/searchBTN_bg.png") repeat;
+    border-color: #FFF;
+    border-radius: 3px;
+}
+
+#searchButton2 {
+    display: none;
+    float: left;
+}
+
+/*This is the styling of the radio button labels*/
+#search label {
+    font-weight: bold;
+    color: #f5f5f5; /*Change this to change the text color*/
+    font-size: .8em;
+    margin: 5px 0;
+    float: left;
+}
+
+#search .radio-inline {
+    margin: 5px;
+    margin-right: 0;
+}
+
+#search.show-search-box {
+    height: 130px;
+    visibility: visible;
+    padding: 0;
+}
+
+/*800px is the point at which the search bar gets bumped below the header to make room*/
+@media screen and (max-width: 850px) {
+    #search {
+        float: left;
+        text-align: left;
+    }
+
+    #searchButton1 {
+        margin-left: 1em;
+    }
+
+    #search .radio {
+        display: block;
+    }
+
+    #search label {
+        min-width: 200px;
+    }
+
+    #AgencyLogo {
+        width: 600px;
+        text-align: left;
+    }
+
+    #soa-navbar-collapse.navbar-collapse.in ul .sub-menu {
+        margin-left: 20px;
+    }
+}
+
+/*@media screen and (max-width: 854px) {
+    #search {
+        height: 0;
+        visibility: hidden;
+    }
+}*/
+
+
+@media screen and (max-width: 530px) {
+    #AgencyLogo {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #searchButton2 {
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #searchButton1 {
+        display: none;
+    }
+
+    #search.show-search-box {
+        height: 170px;
+        visibility: visible;
+    }
+}
+
+@media screen and (max-width: 300px) { /*This is the background for the search box*/
+    #search #searchBox {
+        min-width: initial;
+    }
+
+    #searchbutton {
+    }
+}
+/*#endregion Search Box*/
+
+/*#endregion Department Header Settings */
+
+/*#region Header Photo and Inner-most Menu Bar*/
+#InnerHeader nav {
+    margin-bottom: 0;
+    border-radius: 0;
+    position: initial;
+}
+
+#InnerHeader-navbar-collapse.navbar-collapse.collapse.in,
+#InnerHeader-navbar-collapse.navbar-collapse.collapsing {
+    width: 100%;
+    overflow: hidden;
+}
+
+#bannerPhoto img {
+    width: 100%;
+}
+
+
+
+/*#endregion*/

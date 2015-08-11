@@ -1,0 +1,927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"recorded",
+				"recorded_pages"
+			],
+			[
+				"tot",
+				"total_docs"
+			],
+			[
+				"total",
+				"totalpages"
+			],
+			[
+				"files",
+				"filesPropertyList"
+			],
+			[
+				"orm",
+				"ormCriteria"
+			],
+			[
+				"num",
+				"numPages"
+			],
+			[
+				"display",
+				"displayTime"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"ArrayL",
+				"arrayLen	fn. (cfscript)"
+			],
+			[
+				"permit",
+				"permitnum"
+			],
+			[
+				"getpermit",
+				"getexistingpermit"
+			],
+			[
+				"showtac",
+				"showtaclabel"
+			],
+			[
+				"tem",
+				"template_with_menu_bootstrap"
+			],
+			[
+				"cfsql",
+				"cfsqltype"
+			],
+			[
+				"cuttingzone",
+				"cuttingzone_id"
+			],
+			[
+				"showa",
+				"showacceptance"
+			],
+			[
+				"cutting",
+				"cuttingzone_id"
+			],
+			[
+				"date",
+				"date_start"
+			],
+			[
+				"issue",
+				"issueYear"
+			],
+			[
+				"issu",
+				"issueYear"
+			],
+			[
+				"Valu",
+				"valueList	fn. (cfscript)"
+			],
+			[
+				"dbtype",
+				"dbtype=\"query\"	dbtype"
+			],
+			[
+				"Usage",
+				"UsageReport"
+			],
+			[
+				"qr",
+				"qryResult"
+			],
+			[
+				"qry",
+				"qryResult"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"Permit",
+				"Permit_ID"
+			],
+			[
+				"co",
+				"console	TestBox Send To Console"
+			],
+			[
+				"at",
+				"attr	.attr() - single"
+			],
+			[
+				"newPin",
+				"newPinSpot"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"zones",
+				"zonestruct"
+			],
+			[
+				"adv",
+				"advisory_id"
+			],
+			[
+				"Date",
+				"dateFormat	fn. (cfscript)"
+			],
+			[
+				"advisory",
+				"advisory_id"
+			],
+			[
+				"advi",
+				"advisory"
+			],
+			[
+				"adviso",
+				"advisory_id"
+			],
+			[
+				"onC",
+				"onclick	Attr"
+			],
+			[
+				"structkey",
+				"structKeyArray	fn. (cfscript)"
+			],
+			[
+				"cfsc",
+				"cfscript	Tag (cmfl)"
+			],
+			[
+				"fiel",
+				"fileUpload"
+			],
+			[
+				"area",
+				"areaFields"
+			],
+			[
+				"s",
+				"Stipulations"
+			],
+			[
+				"Area",
+				"Area_ID"
+			],
+			[
+				"existing",
+				"existingpermitform"
+			],
+			[
+				"write",
+				"writeDump"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"file",
+				"fileDownload"
+			],
+			[
+				"map",
+				"mapContainer"
+			],
+			[
+				"Cu",
+				"CuttingZone_ID"
+			],
+			[
+				"phon",
+				"phone_number"
+			],
+			[
+				"ph",
+				"phone_number"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"submit",
+				"submitFunction"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cfs",
+				"cfscript	Tag (cmfl)"
+			],
+			[
+				"cutin",
+				"cuttingzone_id"
+			],
+			[
+				"cuttin",
+				"cuttingzone_id"
+			],
+			[
+				"dela",
+				"delayedAlert"
+			],
+			[
+				"cuttingzon",
+				"cuttingzone_id"
+			],
+			[
+				"appen",
+				"appendTo	.appendTo()"
+			],
+			[
+				"image",
+				"imageName"
+			],
+			[
+				"ara",
+				"area_id"
+			],
+			[
+				"sti",
+				"stiphtml"
+			],
+			[
+				"cfo",
+				"cfoutput	Tag (cmfl)"
+			],
+			[
+				"Are",
+				"Area_ID"
+			],
+			[
+				"lista",
+				"listareaadvisories"
+			],
+			[
+				"advis",
+				"advislist"
+			],
+			[
+				"ddm",
+				"ddmenu2"
+			],
+			[
+				"CON",
+				"CONTAINS"
+			],
+			[
+				"com",
+				"community"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"q",
+				"qIn"
+			],
+			[
+				"quer",
+				"queryString"
+			],
+			[
+				"lo",
+				"locationColumn"
+			],
+			[
+				"the",
+				"theFile"
+			],
+			[
+				"fullad",
+				"fulladdress"
+			],
+			[
+				"fulla",
+				"fulladdress"
+			],
+			[
+				"ci",
+				"circuits"
+			],
+			[
+				"lat",
+				"latlng2"
+			],
+			[
+				"Geo",
+				"geocoder"
+			],
+			[
+				"ge",
+				"geocoder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ProjectPortal/Account/Login.aspx",
+			"settings":
+			{
+				"buffer_size": 2245,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ProjectPortal/Account/Login.aspx.cs",
+			"settings":
+			{
+				"buffer_size": 4092,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "Package Control: l",
+		"selected_items":
+		[
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"view.window().run_command('close_cftag')",
+			"sublime.log_commands(True)",
+			"sublime.log_input(True)",
+			"view.window().run_command('close_cftag')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/ProjectPortal",
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/ProjectPortal/ProjectPortal"
+	],
+	"file_history":
+	[
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/TelerikWebApp3/TelerikWebApp3/App_Code/Exchange/EWSProxies.cs",
+		"/I/ssd/recoff/util/modules/plog/_Controller/main.cfc",
+		"/I/ssd/recoff/util/_Models/objects/recoffimages.cfc",
+		"/I/ssd/recoff/util/modules/film/ModuleConfig.cfc",
+		"/I/ssd/recoff/util/_Models/services/QueryService.cfc",
+		"/I/ssd/recoff/util/_Models/services/MailService.cfc",
+		"/I/ssd/recoff/util/config/Coldbox.cfc",
+		"/I/ssd/recoff/util/_Models/services/DocumentService.cfc",
+		"/I/ssd/recoff/util/_Models/services/DataTableService.cfc",
+		"/I/ssd/recoff/util/modules/plog/includes/javascript/index.js",
+		"/I/ssd/recoff/util/modules/plog/includes/javascript/lockablestorage.js",
+		"/I/ssd/recoff/util/modules/plog/includes/javascript/jQuery.plog.js",
+		"/I/ssd/recoff/util/modules/labels/includes/javascript/label.js",
+		"/I/ssd/recoff/util/modules/plog/_Views/main/index.cfm",
+		"/I/ssd/recoff/util/config/Routes.cfm",
+		"/I/ssd/recoff/util/modules/film/_Views/main/reset.cfm",
+		"/I/ssd/recoff/util/modules/film/_Controller/api.cfc",
+		"/I/ssd/recoff/util/modules/film/_Controller/main.cfc",
+		"/I/ssd/recoff/util/_Controllers/app.cfc",
+		"/I/ssd/recoff/util/modules/labels/_Controller/label.cfc",
+		"/I/ssd/recoff/util/_Models/services/DistrictService.cfc",
+		"/I/ssd/recoff/util/Application.cfc",
+		"/T/ssd/recoff/util/_Controllers/app.cfc",
+		"/I/ssd/recoff/ike/filmconv/count.cfm",
+		"/I/ssd/recoff/ike/filmconv/index.cfm",
+		"/I/ssd/recoff/ike/filmconv/Move.cfm",
+		"/I/ssd/recoff/ike/filmconv/Functions.cfm",
+		"/I/ssd/recoff/util/modules/film/_Views/main/index.cfm",
+		"/I/ssd/recoff/ike/filmconv/practice.cfm",
+		"/I/ssd/recoff/ike/filmconv/Permissions.cfm",
+		"/I/ssd/recoff/ike/filmconv/Index(messy).cfm",
+		"/I/ssd/recoff/util/includes/javascript/app.js",
+		"/I/ssd/recoff/util/_Views/index.cfm",
+		"/I/ssd/recoff/util/modules/film/_Views/main/test.cfm",
+		"/I/ssd/recoff/util/_Views/menu/index.cfm",
+		"/I/ssd/recoff/util/modules/labels/_Controller/main.cfc",
+		"/I/ssd/recoff/util/modules/film/includes/javascript/film.js",
+		"/I/ssd/recoff/util/includes/styles/recoffapp/security/login.css",
+		"/I/ssd/recoff/util/modules/labels/includes/css/labels.css",
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/TelerikWebApp3/TelerikWebApp3/TelerikWebApp3.csproj.user",
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/TelerikWebApp3/TelerikWebApp3/TelerikWebApp3.csproj",
+		"/C/Program Files (x86)/Telerik/UI for ASP.NET AJAX Q1 2015/Bin45/Telerik.Web.Design.dll",
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/TelerikWebApp3/TelerikWebApp3/Properties/AssemblyInfo.cs",
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/TelerikWebApp3/TelerikWebApp3/bin/Telerik.Web.UI.dll",
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/TelerikWebApp3/TelerikWebApp3/bin/TelerikWebApp3.dll",
+		"/C/Users/dpcard/Documents/Visual Studio 2013/Projects/TelerikWebApp3/TelerikWebApp3/bin/TelerikWebApp3.dll.config",
+		"/C/Users/dpcard/Downloads/284411_282598-SchedulerExchangeProvider/SchedulerWithExchangeProvider.aspx.vb",
+		"/C/Users/dpcard/Downloads/ExchangeCalendarSync/vwd.webinfo",
+		"/C/oracle/product/11.2.0/client_2/network/admin/tnsnames.ora",
+		"/C/oracle/product/11.2.0/client_2/sqldeveloper/sqldeveloper/bin/sqldeveloper.conf",
+		"/C/oracle/product/11.2.0/client_2/network/admin/sqlnet.ora",
+		"/C/oracle/product/11.2.0/client_1/network/admin/tnsnames.ora",
+		"/G/fps/_Views/index.cfm",
+		"/G/fps/includes/javascript/jquery/jquery.fileDownload.js",
+		"/G/fps/_Views/admin/usagereport.cfm",
+		"/G/fps/_Views/admin/showcuttingzonelist.cfm",
+		"/G/fps/_Views/admin/manageadvisories.cfm",
+		"/G/fps/_Views/admin/definedetailedmaps.cfm",
+		"/G/fps/_Views/admin/cashreceiptpermitform.cfm",
+		"/G/fps/_Views/admin/existingpermitform",
+		"/G/fps/_Views/admin/definecuttingzones.cfm",
+		"/G/fps/layouts/internal/template_with_menu_bootstrap2.cfm",
+		"/G/fps/_Views/admin/showacceptance.cfm",
+		"/G/fps/_Views/area/showacceptance.cfm",
+		"/G/fps/_Controllers/area.cfc",
+		"/G/fps/_Models/services/FPSService.cfc",
+		"/G/fps/config/Coldbox.cfc",
+		"/G/fps/_Models/objects/Permit.cfc",
+		"/G/fps/layouts/internal/template_with_menu_bootstrap.cfm",
+		"/G/fps/_Controllers/app.cfc",
+		"/G/fps/_Views/admin/newemployee.cfm",
+		"/G/fps/_Views/admin/showarea.cfm",
+		"/G/fps/_Views/admin/test2.cfm",
+		"/G/fps/_Views/admin/test.cfm",
+		"/G/fps/_Views/admin/usagereport2.cfm",
+		"/G/fps/includes/javascript/jquery/jquery-ui.theme.custom.css",
+		"/G/fps/Application.cfc",
+		"/G/fps/_Models/objects/CuttingZone.cfc",
+		"/G/fps/_Models/objects/A_Advisory.cfc",
+		"/G/fps/_Views/area/showcuttingzonemap.cfm",
+		"/G/fps/_Views/Application.cfm",
+		"/G/fps/_Models/objects/Advisory.cfc",
+		"/G/fps/_Models/setPayment.cfm",
+		"/G/fps/_Views/admin/areamapupload2.cfm",
+		"/G/fps/_Models/objects/Area.cfc",
+		"/G/fps/_Views/admin/index.cfm",
+		"/G/fps/_Controllers/security.cfc",
+		"/G/fps/_Models/services/SecurityService.cfc",
+		"/G/fps/_Models/extensions/plugins/SessionStorage.cfc",
+		"/C/Users/dpcard/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/G/fps/_Views/area/existingpermitform.cfm",
+		"/G/fps/_Views/area/existingpermittac.cfm",
+		"/G/fps/config/Application.cfm",
+		"/G/fps/_Views/admin/permitform.cfm",
+		"/G/fps/includes/styles/layout/dof.css",
+		"/G/fps/_Views/area/index.cfm",
+		"/G/fps/_Models/services/FPSAdminService.cfc",
+		"/G/fps/_Controllers/admin.cfc",
+		"/G/fps/_Controllers/maps.cfc",
+		"/G/fps/_Views/area/permitform.cfm",
+		"/G/fps/_Views/area/permit.cfm",
+		"/G/fps/_Views/area/detailedmap.cfm",
+		"/G/fps/includes/javascript/jquery.fileDownload.js",
+		"/G/fps/_Views/area/czdetailedmap.cfm",
+		"/G/fps/_Views/area/areatac.cfm",
+		"/G/fps/_Views/area/areatacprint.cfm",
+		"/G/fps/_Views/area/showtac.cfm",
+		"/G/fps/_Views/area/czdetailedmapprint.cfm",
+		"/G/fps/_Views/area/permitprint.cfm",
+		"/G/fps/plugins/SessionStorage.cfc",
+		"/G/fps/_Views/area/existingpermit.cfm",
+		"/C/Users/dpcard/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/G/fps/_Views/area/southwest.cfm",
+		"/G/fps/includes/styles/bootstrap/bootstrapscoped2.css",
+		"/G/fps/_Views/maps/circuits4.cfm",
+		"/G/fps/includes/javascript/bootstrap/bootstrap.js",
+		"/C/Users/dpcard/Downloads/bootstrap/js/bootstrap.js",
+		"/C/Users/dpcard/Downloads/bootstrap.zip",
+		"/G/fps/includes/styles/layout/internal/dnrmain.css",
+		"/G/fps/includes/styles/layout/internal/dnrmenu.css",
+		"/G/fps/fps.css",
+		"/G/fps/mincache/694A6CF0CA0D772977C127FDE73F84AD.cache.css",
+		"/C/Users/dpcard/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/dpcard/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/dpcard/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/dpcard/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/G/fps/includes/images/layout/index.cfm",
+		"/G/fps/_Views/test/index.cfm"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open files>",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"start",
+			"DOC",
+			"recorded_pages",
+			"verify Totals",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"ormCriteria",
+			"newCriteria",
+			"filmed",
+			"files",
+			"oc_criteria",
+			"oc_sum",
+			"oc_files",
+			"oc_count",
+			"Files",
+			"files",
+			"Files",
+			"files",
+			"Files",
+			"all_pages",
+			"oc_pages",
+			"total_oc_docs",
+			"<div class=\"col-xs-1\">\n			<b># of Pages</b>\n			<abbr data-toggle=\"tooltip\" title=\"Over the Counter\">OC</abbr>/<abbr data-toggle=\"tooltip\" title=\"Over the Counter and Electronic\" >All</abbr>\n		</div>",
+			"filmDistrict",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"A.",
+			"a.",
+			"a",
+			"getTotals",
+			"ormCriteria",
+			"oc_total_pages",
+			"files",
+			"numpages",
+			"NumPages",
+			"numPages",
+			"total_pages",
+			"imageFileFolder",
+			"FilmFileFolder",
+			"getFullSerial",
+			"getRecordedTime",
+			"getDocumentPath",
+			"trunc",
+			"button",
+			"d",
+			"key",
+			"screen_size",
+			"districtService",
+			"error",
+			"myModalLabel",
+			"query",
+			"sn",
+			"message",
+			"verify",
+			"alert",
+			"totals",
+			"config",
+			"hello",
+			"generateAjaxUrlsScrpt",
+			"filmResponse",
+			"filmDistrict",
+			"filesTable",
+			"DATA",
+			"#alert",
+			"alert",
+			"message",
+			" update",
+			"update",
+			"file download",
+			"function deletepermit(event, rc, prc){\n		var issaved = FPSAdminService.deletepermit(rc.permit_number);\n		if(NOT issaved){\n			MessageBox.error(\"There was an error deleting the permit\");\n		}else{\n			MessageBox.info(\"Permit has been deleted.\");\n		}\n		setNextEvent(\"admin.existingpermit\");\n	}",
+			"advqry",
+			"zonename",
+			"name",
+			"SessionStorage",
+			"button",
+			"document.pinInfo",
+			"style",
+			"getexistingpermit",
+			"FPSService",
+			"argumentCollection",
+			"FPSService",
+			"getexistingpermit",
+			"getexisting",
+			"code",
+			"getpermit",
+			"layout",
+			"numbercords",
+			"name",
+			"fee",
+			"expdate",
+			"fee",
+			"queryObj",
+			"showacceptance",
+			"function cashreceiptpermitform(event, rc, prc){\n		prc.cuttingzone = FPSAdminService.getcuttingzone(rc.cuttingzone_id);\n		addAsset([\n			'includes/javascript/jquery/jquery-1.11.1.min.js',\n			\"includes/javascript/bootstrap/bootstrap.min.js\"\n		]);\n	}",
+			"permit",
+			"Left",
+			"ur",
+			"ur[i]",
+			"UsageReport",
+			"cfdump",
+			"includes/javascript/jquery/jquery-ui-1.11.min.js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"areaname"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ProjectPortal/Account/Login.aspx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ASP/ASP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ProjectPortal/Account/Login.aspx.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pp.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
