@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<items>
-  <item Text="Home" NavigateUrl="~/Default.aspx" />
-  <item Text="Map" NavigateUrl="~/Map.aspx"  />
-  <item Text="Calendar" NavigateUrl="~/Calendar.aspx"  />
-  <item Text="Files" NavigateUrl="~/Files.aspx"  />
-</items>
