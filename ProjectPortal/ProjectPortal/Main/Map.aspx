@@ -74,11 +74,11 @@
                   }
                 );
 
-                dynaLayer1 = new ArcGISDynamicMapServiceLayer("http://dnratwgisprod1.soa.alaska.gov:6080/arcgis/rest/services/Donlin/MapServer", {
+                dynaLayer1 = new ArcGISDynamicMapServiceLayer("http://server:6080/arcgis/rest/services/Donlin/MapServer", {
                     opacity: 0.8
                 });
 
-                dynaLayer2 = new ArcGISDynamicMapServiceLayer("http://dnratwgisprod1.soa.alaska.gov:6080/arcgis/rest/services/DNRLandRecords/Ownership/MapServer", {
+                dynaLayer2 = new ArcGISDynamicMapServiceLayer("http://server:6080/arcgis/rest/services/DNRLandRecords/Ownership/MapServer", {
                     opacity: 0.8
                 });
 

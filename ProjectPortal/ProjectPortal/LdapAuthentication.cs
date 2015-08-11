@@ -22,7 +22,7 @@ namespace ProjectPortal
     {
       //string domainAndUsername = domain + @"\" + username;
       //DirectoryEntry entry = new DirectoryEntry(_path, domainAndUsername, pwd);
-      DirectoryEntry entry = new DirectoryEntry("LDAP://jnuldap.state.ak.us/ou=people,o=state.ak.us");
+      DirectoryEntry entry = new DirectoryEntry("LDAP://server/ou=people,o=state.ak.us");
       entry.Username = "uid=" + username + ",ou=people,o=state.ak.us";
       entry.Password = password;
       entry.AuthenticationType = System.DirectoryServices.AuthenticationTypes.FastBind;
